@@ -1,0 +1,40 @@
+html{
+    background-color: #f6d4d2;
+}
+h1{
+    font-family: 'Marcellus', serif;
+    color: darksalmon;
+    margin: 10px
+}
+
+.parent{
+    text-align: center;
+
+}
+
+.child{
+    margin-right: 100px;
+    display: inline-block;
+    font-family: 'Marcellus', serif;
+    color:black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img{
+    margin-left: 70px;
+}
+
+.topnav{
+    font-family: 'Marcellus', serif;
+    font-size: 25px;
+    overflow: hidden;
+}
+
+.topnav a{
+    float:right;
+    text-align: center;
+    padding: 14px 16px;
+    color: black;
+
+}
