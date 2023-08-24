@@ -1,5 +1,5 @@
 html{
-    background-color: #f6d4d2;
+    background-color: whitesmoke;
 }
 h1{
     font-family: 'Marcellus', serif;
@@ -27,7 +27,7 @@ img{
 
 .topnav{
     font-family: 'Marcellus', serif;
-    font-size: 25px;
+    font-size: 22px;
     overflow: hidden;
 }
 
@@ -36,5 +36,30 @@ img{
     text-align: center;
     padding: 14px 16px;
     color: black;
+    background-color: whitesmoke;
 
+}
+
+.child.child1{
+    margin-top: 20px;
+    padding: 20px 15px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50% ;
+}
+
+#new{
+    background-color: #f6d4d2;
+    margin-left: 31px;
+    width: 1200px;
+    height: 500px;
+    position: absolute;
+    z-index: -1;
+
+}
+
+blockquote{
+    font-style: italic;
+    text-shadow: 40px;
+    font-size: large;
 }
